@@ -1,1 +1,1 @@
-# htmlOpenBootcamp
+# Resolución de ejercicios de curso HTML y CSS de OpenBootcamp
