@@ -1,0 +1,31 @@
+.contenedor-hidden{
+  background-color: blanchedalmond;
+  width: 300px;
+  height: 100px;
+  padding: 15px;
+  overflow: hidden;
+}
+.contenedor-scroll{
+  background-color: blanchedalmond;
+  width: 300px;
+  height: 100px;
+  padding: 15px;
+  margin: 10px 0px;
+  overflow: scroll;
+}
+.contenedor-visible{
+  background-color: blanchedalmond;
+  width: 300px;
+  height: 100px;
+  padding: 15px;
+  margin: 10px 0px;
+  overflow: visible;
+}
+.contenedor-auto{
+  background-color: blanchedalmond;
+  width: 300px;
+  height: 100px;
+  padding: 15px;
+  margin: 10px 0px;
+  overflow: auto;
+}
