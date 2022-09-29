@@ -1,0 +1,11 @@
+.contenedor p{
+  color: green;
+}
+.contenedor #boton-contenedor{
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+.contenedor #boton-contenedor:hover{
+  opacity: 0.75;
+}
