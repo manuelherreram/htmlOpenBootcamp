@@ -67,3 +67,74 @@
 .twitter-btn:hover{
   background-color: #ddd;
 }
+
+.separator {
+  display: flex;
+  width: 100%;
+gap: 15px;
+}
+
+.separator hr {
+  flex-grow: 1;
+  border: none;
+  border-top: 1px solid #ccc;
+}
+
+.separator span {
+color: #8b8b8b;
+}
+
+.section-inputs {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 20px;
+}
+label {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+label span{
+  font-weight: 700;
+}
+
+.section-inputs label input {
+  width: 80%;
+  background-color: #f3f3f4;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  outline: none;
+  font-size: 14pt;
+}
+
+label input {
+  width: 100%;
+  background-color: #f3f3f4;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  outline: none;
+  font-size: 14pt;
+}
+
+label input:hover{
+  background-color: white;
+  border: solid 1px #f3f3f4;
+  box-shadow: 0 0 4px #e163ca;
+}
+
+label input:focus{
+  background-color: white;
+  border: solid 1px #f3f3f4;
+  box-shadow: 0 0 4px #e163ca;
+}
